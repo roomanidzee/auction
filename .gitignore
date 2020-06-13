@@ -23,3 +23,8 @@
 hs_err_pid*
 
 .vscode
+.metals
+.bloop
+**/metals.sbt
+*.cache
+target
